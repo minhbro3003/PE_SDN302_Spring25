@@ -1,0 +1,34 @@
+[
+  {
+    "_id": {
+      "$oid": "650e4b9b59f876aa32123459"
+    },
+    "Code": "S001",
+    "Name": "Mathematics",
+    "Credit": 3
+  },
+  {
+    "_id": {
+      "$oid": "650e4b9b59f876aa32123460"
+    },
+    "Code": "S002",
+    "Name": "Programming",
+    "Credit": 4
+  },
+  {
+    "_id": {
+      "$oid": "650e4b9b59f876aa32123461"
+    },
+    "Code": "S003",
+    "Name": "Data Structures",
+    "Credit": 3
+  },
+  {
+    "_id": {
+      "$oid": "650e4b9b59f876aa32123462"
+    },
+    "Code": "S004",
+    "Name": "Artificial Intelligence",
+    "Credit": 3
+  }
+]

@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "652c1cd546a765d027fb163e"
+  },
+  "path": "/sites/images/xiaomi.png",
+  "url": "/images/xiaomi.png",
+  "caption": "xiaomi product",
+  "createAt": {
+    "$date": "2024-10-15T17:09:41.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652c1cd546a765d027fb163f"
+  },
+  "path": "/sites/images/iphone10.png",
+  "url": "/images/iphone10.png",
+  "caption": "iphone10 product",
+  "createAt": {
+    "$date": "2024-10-15T17:09:41.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652c1cd546a765d027fb1640"
+  },
+  "path": "/sites/images/iphone12.png",
+  "url": "/images/iphone12.png",
+  "caption": "iphone12 product",
+  "createAt": {
+    "$date": "2024-10-15T17:09:41.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d5d4ff62b46d103dca71b"
+  },
+  "path": "/sites/images/iphone15.png",
+  "url": "/images/iphone15.png",
+  "caption": "iphone15 product",
+  "createAt": {
+    "$date": "2024-10-16T15:57:03.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d5d4ff62b46d103dca71c"
+  },
+  "path": "/sites/images/samsung.png",
+  "url": "/images/samsung.png",
+  "caption": "samsung product",
+  "createAt": {
+    "$date": "2024-10-16T15:57:03.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d5d4ff62b46d103dca71d"
+  },
+  "path": "/sites/images/samsung1.png",
+  "url": "/images/samsung1.png",
+  "caption": "samsung1 product",
+  "createAt": {
+    "$date": "2024-10-16T15:57:03.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d5e049530528e3bd2bee7"
+  },
+  "path": "/sites/images/oppo.png",
+  "url": "/images/oppo.png",
+  "caption": "oppo product",
+  "createAt": {
+    "$date": "2024-10-16T16:00:04.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d5e049530528e3bd2bee8"
+  },
+  "path": "/sites/images/oppo1.png",
+  "url": "/images/oppo1.png",
+  "caption": "oppo1 product",
+  "createAt": {
+    "$date": "2024-10-16T16:00:04.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d6235377cdf80de632f6d"
+  },
+  "path": "/sites/images/oppo2.png",
+  "url": "/images/oppo2.png",
+  "caption": "oppo2 product",
+  "createAt": {
+    "$date": "2024-10-16T16:17:57.790Z"
+  },
+  "__v": 0
+}]

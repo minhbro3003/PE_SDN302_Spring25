@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "6525ef1dcf96890e7ad4e108"
+  },
+  "name": "xiaomi",
+  "description": "An xiaomi mobile which is nothing like xiaomi",
+  "price": 549,
+  "discountPercentage": 12.96,
+  "stock": 94,
+  "brand": "xiaomi",
+  "thumbnail": "/images/xiaomi1.png",
+  "images": [
+    {
+      "_id": {
+        "$oid": "652c1cd546a765d027fb163e"
+      },
+      "url": "/images/xiaomi.png",
+      "caption": "xiaomi product"
+    },
+    {
+      "_id": {
+        "$oid": "652c1cd546a765d027fb163f"
+      },
+      "url": "/images/iphone10.png",
+      "caption": "iphone10 product"
+    }
+  ],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "6525ef1dcf96890e7ad4e109"
+  },
+  "name": "iphone",
+  "description": "An apple mobile which is nothing like apple",
+  "price": 789,
+  "discountPercentage": 9.12,
+  "stock": 8,
+  "brand": "iphone",
+  "thumbnail": "/images/iphone1.png",
+  "images": [
+    {
+      "_id": {
+        "$oid": "652c1cd546a765d027fb1640"
+      },
+      "url": "/images/iphone12.png",
+      "caption": "iphone12 product"
+    },
+    {
+      "_id": {
+        "$oid": "652d5d4ff62b46d103dca71b"
+      },
+      "url": "/images/iphone15.png",
+      "caption": "iphone15 product"
+    }
+  ],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "6525ef1dcf96890e7ad4e10a"
+  },
+  "name": "samsung",
+  "description": "An samsung is the best mobile ",
+  "price": 346,
+  "discountPercentage": 12.24,
+  "stock": 35,
+  "brand": "samsung",
+  "thumbnail": "/images/samsungmode.png",
+  "images": [
+    {
+      "_id": {
+        "$oid": "652d5d4ff62b46d103dca71c"
+      },
+      "url": "/images/samsung.png",
+      "caption": "samsung product"
+    },
+    {
+      "_id": {
+        "$oid": "652d5d4ff62b46d103dca71d"
+      },
+      "url": "/images/samsung1.png",
+      "caption": "samsung1 product"
+    }
+  ],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "6525ef1dcf96890e7ad4e10b"
+  },
+  "name": "oppo",
+  "description": "An oppo is the cheap mobile ",
+  "price": 34,
+  "discountPercentage": 20.12,
+  "stock": 6,
+  "brand": "oppo",
+  "thumbnail": "/images/oppomode.png",
+  "images": [
+    {
+      "_id": {
+        "$oid": "652d5e049530528e3bd2bee7"
+      },
+      "url": "/images/oppo.png",
+      "caption": "oppo product"
+    },
+    {
+      "_id": {
+        "$oid": "652d5e049530528e3bd2bee8"
+      },
+      "url": "/images/oppo1.png",
+      "caption": "oppo1 product"
+    }
+  ],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "6525ef1dcf96890e7ad4e20b"
+  },
+  "name": "nothing",
+  "description": "this a mobile is not shown ",
+  "price": 34,
+  "discountPercentage": 20.12,
+  "stock": 0,
+  "brand": "oppo",
+  "thumbnail": "/images/oppomode.png",
+  "images": [
+    {
+      "_id": {
+        "$oid": "652d5e049530528e3bd2bee7"
+      },
+      "url": "/images/oppo.png",
+      "caption": "oppo product"
+    },
+    {
+      "_id": {
+        "$oid": "652d5e049530528e3bd2bee8"
+      },
+      "url": "/images/oppo1.png",
+      "caption": "oppo1 product"
+    }
+  ],
+  "comments": []
+}]

@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "fb6c95c837602d8d52ff3923"
+    },
+    "username": "user1",
+    "email": "user1@example.com",
+    "password": "hashed_password1"
+  },
+  {
+    "_id": {
+      "$oid": "3fb6b3899cbb924f76cb9908"
+    },
+    "username": "user2",
+    "email": "user2@example.com",
+    "password": "hashed_password2"
+  },
+  {
+    "_id": {
+      "$oid": "8f8da69e1eed1f296e1ee9e6"
+    },
+    "username": "user3",
+    "email": "user3@example.com",
+    "password": "hashed_password3"
+  },
+  {
+    "_id": {
+      "$oid": "8d73e44e6a6ec112ae241dd2"
+    },
+    "username": "user4",
+    "email": "user4@example.com",
+    "password": "hashed_password4"
+  },
+  {
+    "_id": {
+      "$oid": "80bb03943ba96d3f1e9b5de7"
+    },
+    "username": "user5",
+    "email": "user5@example.com",
+    "password": "hashed_password5"
+  },
+  {
+    "_id": {
+      "$oid": "d42651563ce8dae3e6a39eff"
+    },
+    "username": "user6",
+    "email": "user6@example.com",
+    "password": "hashed_password6"
+  },
+  {
+    "_id": {
+      "$oid": "2308769249a774e566adc208"
+    },
+    "username": "user7",
+    "email": "user7@example.com",
+    "password": "hashed_password7"
+  },
+  {
+    "_id": {
+      "$oid": "51ae85fd0b342ae3ee4bee7d"
+    },
+    "username": "user8",
+    "email": "user8@example.com",
+    "password": "hashed_password8"
+  },
+  {
+    "_id": {
+      "$oid": "30918176bfe5f9a7e82c9df4"
+    },
+    "username": "user9",
+    "email": "user9@example.com",
+    "password": "hashed_password9"
+  },
+  {
+    "_id": {
+      "$oid": "1b02bc9d487398b866a46a3b"
+    },
+    "username": "user10",
+    "email": "user10@example.com",
+    "password": "hashed_password10"
+  }
+]

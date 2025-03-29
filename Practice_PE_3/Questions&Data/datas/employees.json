@@ -1,0 +1,73 @@
+[
+  {
+    "_id": {
+      "$oid": "6489c29fae513b6ee8c6a007"
+    },
+    "FullName": {
+      "FirstName": "Nguyen",
+      "LastName": "Anh"
+    },
+    "BasicSalary": 1000,
+    "Departments": [
+      {
+        "_id": {
+          "$oid": "6489c29fae513b6ee8c6a001"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6489c29fae513b6ee8c6a002"
+        }
+      }
+    ],
+    "Position": {
+      "_id": {
+        "$oid": "6489c29fae513b6ee8c6a004"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6489c29fae513b6ee8c6a008"
+    },
+    "FullName": {
+      "FirstName": "Tran",
+      "LastName": "Binh"
+    },
+    "BasicSalary": 800,
+    "Departments": [
+      {
+        "_id": {
+          "$oid": "6489c29fae513b6ee8c6a002"
+        }
+      }
+    ],
+    "Position": {
+      "_id": {
+        "$oid": "6489c29fae513b6ee8c6a006"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6489c29fae513b6ee8c6a009"
+    },
+    "FullName": {
+      "FirstName": "Le",
+      "LastName": "Chau"
+    },
+    "BasicSalary": 1200,
+    "Departments": [
+      {
+        "_id": {
+          "$oid": "6489c29fae513b6ee8c6a003"
+        }
+      }
+    ],
+    "Position": {
+      "_id": {
+        "$oid": "6489c29fae513b6ee8c6a005"
+      }
+    }
+  }
+]

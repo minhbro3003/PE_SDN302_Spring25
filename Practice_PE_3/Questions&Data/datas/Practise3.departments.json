@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6489c29fae513b6ee8c6a001"
+  },
+  "Name": "Human Resources",
+  "Code": "HR001"
+},
+{
+  "_id": {
+    "$oid": "6489c29fae513b6ee8c6a002"
+  },
+  "Name": "IT Department",
+  "Code": "IT002"
+},
+{
+  "_id": {
+    "$oid": "6489c29fae513b6ee8c6a003"
+  },
+  "Name": "Marketing",
+  "Code": "MK003"
+},
+{
+  "_id": {
+    "$oid": "675ae00fdcaeeb4f232f80f5"
+  },
+  "Name": "Testing",
+  "Code": "IT004"
+},
+{
+  "_id": {
+    "$oid": "675ae00fdcaeeb4f232f80f6"
+  },
+  "Name": "BA analysis",
+  "Code": "IT005"
+}]

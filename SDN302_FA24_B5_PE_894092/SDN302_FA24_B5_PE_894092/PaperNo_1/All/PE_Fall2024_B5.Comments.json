@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "652cc6cd83c0aab446fd6a06"
+  },
+  "username": "Tom Cruise",
+  "text": "Hi, everyone!",
+  "createAt": {
+    "$date": "2023-10-16T05:14:53.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652cc74483c0aab446fd6a09"
+  },
+  "username": "Scarlett Johansson",
+  "text": "Perfect self-study topic. Thank you!",
+  "createAt": {
+    "$date": "2023-10-16T05:16:52.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d0ef49ed9c1135a182070"
+  },
+  "username": "Lionel Messi",
+  "text": "Great topic. Thank.",
+  "createAt": {
+    "$date": "2023-10-16T10:22:44.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d55f19ed9c1135a182073"
+  },
+  "username": "Cristian Ronaldo",
+  "text": "Thanks a lot. This is a beneficial content",
+  "createAt": {
+    "$date": "2023-10-16T15:25:37.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d6307377cdf80de632f7c"
+  },
+  "username": "Meghan_Littel",
+  "text": "Sapiente assumenda molestiae atque\nadipisci laborum distinctio aperiam et ab ut omnis\net occaecati aspernatur odit sit rem expedita\nquas enim ipsam minus",
+  "createAt": {
+    "$date": "2023-10-16T16:21:27.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d63d73d7d8f13fbaa4a02"
+  },
+  "username": "Veronica Goodwin",
+  "text": "ut dolorum nostrum id quia aut est\nfuga est inventore vel eligendi explicabo quis consectetur\naut occaecati repellat id natus quo est\nut blanditiis quia ut vel ut maiores ea",
+  "createAt": {
+    "$date": "2023-10-16T16:24:55.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652f56e115b3bb0409ed8b96"
+  },
+  "username": "Veronica Goodwin",
+  "text": "ut dolorum nostrum id quia aut est\nfuga est inventore vel eligendi explicabo quis consectetur\naut occaecati repellat id natus quo est\nut blanditiis quia ut vel ut maiores ea",
+  "createAt": {
+    "$date": "2023-10-18T03:54:09.473Z"
+  },
+  "__v": 0
+}]

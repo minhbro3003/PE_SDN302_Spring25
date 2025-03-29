@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {
+      "$oid": "44497607fd2c5e11079e1937"
+    },
+    "FullName": {
+      "FirstName": "John",
+      "LastName": "Doe"
+    },
+    "bio": "John is a database specialist with over 10 years of experience."
+  },
+  {
+    "_id": {
+      "$oid": "23b4de6bb6dd568c6c4e8826"
+    },
+    "FullName": {
+      "FirstName": "Jane",
+      "LastName": "Smith"
+    },
+    "bio": "Jane is an expert in MongoDB and NoSQL technologies."
+  },
+  {
+    "_id": {
+      "$oid": "268da4b654ce89c9fb519be3"
+    },
+    "FullName": {
+      "FirstName": "Emily",
+      "LastName": "Brown"
+    },
+    "bio": "Emily is a software engineer and database architect."
+  }
+]

@@ -1,0 +1,17 @@
+{
+    "name": "Develop Website",
+    "issues": [
+        {
+            "title": "Design Review",
+            "date": "2023-10-01T00:00:00Z",
+            "isCompleted": false
+        },
+        {
+            "title": "Backend Integration",
+            "date": "2023-10-05T00:00:00Z",
+            "isCompleted": false
+        }
+    ],
+    "startDate": "2023-10-01T00:00:00Z",
+    "endDate": "2023-12-01T00:00:00Z"
+}

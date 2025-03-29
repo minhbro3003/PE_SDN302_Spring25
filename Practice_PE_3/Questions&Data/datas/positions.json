@@ -1,0 +1,23 @@
+[
+  {
+    "_id": {
+      "$oid": "6489c29fae513b6ee8c6a004"
+    },
+    "Name": "Manager",
+    "Coefficient": 1.5
+  },
+  {
+    "_id": {
+      "$oid": "6489c29fae513b6ee8c6a005"
+    },
+    "Name": "Team Leader",
+    "Coefficient": 1.2
+  },
+  {
+    "_id": {
+      "$oid": "6489c29fae513b6ee8c6a006"
+    },
+    "Name": "Staff",
+    "Coefficient": 1.0
+  }
+]

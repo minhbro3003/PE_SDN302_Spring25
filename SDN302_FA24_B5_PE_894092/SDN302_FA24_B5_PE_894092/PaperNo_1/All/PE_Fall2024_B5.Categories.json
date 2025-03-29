@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "652c04a6b766198f0e43c605"
+  },
+  "name": "Computer Science",
+  "description": "Computer science description ....",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652c0558b766198f0e43c607"
+  },
+  "name": "Computer Programming",
+  "description": "Computer Programming description ....",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652c0578b766198f0e43c609"
+  },
+  "name": "Big Data & Analytics",
+  "description": "Big Data & Analytics description ....",
+  "__v": 0
+}]

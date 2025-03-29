@@ -1,0 +1,77 @@
+[
+  {
+    "_id": {
+      "$oid": "650e4b9b59f876aa32123463"
+    },
+    "Code": "ST001",
+    "FullName": "Nguyen Van A",
+    "Dob": "2000-01-15",
+    "class": {
+      "$oid": "650e4b9b59f876aa32123456"
+    },
+    "subjects": [
+      {
+        "subject": {
+          "$oid": "650e4b9b59f876aa32123459"
+        },
+        "Grade": 8
+      },
+      {
+        "subject": {
+          "$oid": "650e4b9b59f876aa32123460"
+        },
+        "Grade": 7.5
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "650e4b9b59f876aa32123464"
+    },
+    "Code": "ST002",
+    "FullName": "Le Thi B",
+    "Dob": "2001-03-22",
+    "class": {
+      "$oid": "650e4b9b59f876aa32123457"
+    },
+    "subjects": [
+      {
+        "subject": {
+          "$oid": "650e4b9b59f876aa32123461"
+        },
+        "Grade": 9
+      },
+      {
+        "subject": {
+          "$oid": "650e4b9b59f876aa32123462"
+        },
+        "Grade": 8.5
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "650e4b9b59f876aa32123465"
+    },
+    "Code": "ST003",
+    "FullName": "Pham Van C",
+    "Dob": "1999-12-30",
+    "class": {
+      "$oid": "650e4b9b59f876aa32123458"
+    },
+    "subjects": [
+      {
+        "subject": {
+          "$oid": "650e4b9b59f876aa32123459"
+        },
+        "Grade": 7
+      },
+      {
+        "subject": {
+          "$oid": "650e4b9b59f876aa32123462"
+        },
+        "Grade": 8
+      }
+    ]
+  }
+]

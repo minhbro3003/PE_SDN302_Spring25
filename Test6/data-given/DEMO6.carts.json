@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "67c46898fda88dd7cb618772"
+  },
+  "discountTotal": 84.7008,
+  "totalProduct": 692,
+  "totalQuantity": 2,
+  "totalPrice": 607.2992,
+  "user": {
+    "$oid": "67c42a83c59da0009392205d"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "6525ef1dcf96890e7ad4e10a"
+      },
+      "name": "samsung",
+      "price": 346,
+      "quantity": 2,
+      "discountPercentage": 12.24,
+      "total": 607.2992
+    }
+  ],
+  "__v": 1
+}]

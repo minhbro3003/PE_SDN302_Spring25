@@ -1,0 +1,14 @@
+[
+{
+    "_id": {
+    "$oid": "652cc6cd83c0aab446fd6a06"
+    },
+    "title": "Sản phẩm A",
+    "body": "Cũng ổn.",
+    "user": "Anta",
+    "timestamps": {
+      "created_at": "2024-03-02T08:00:00Z",
+      "updated_at": "2024-03-02T08:30:00Z"
+    }
+  }
+]

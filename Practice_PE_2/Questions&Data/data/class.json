@@ -1,0 +1,23 @@
+[
+    {
+        "_id": {
+            "$oid": "650e4b9b59f876aa32123456"
+        },
+        "Code": "C001",
+        "Name": "Computer Science"
+    },
+    {
+        "_id": {
+            "$oid": "650e4b9b59f876aa32123457"
+        },
+        "Code": "C002",
+        "Name": "Information Technology"
+    },
+    {
+        "_id": {
+            "$oid": "650e4b9b59f876aa32123458"
+        },
+        "Code": "C003",
+        "Name": "Data Science"
+    }
+]
