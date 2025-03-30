@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "67c01b1994c8ed0232b5a78e"
+  },
+  "title": "Artificial Intelligence: A Guide for Thinking Humans",
+  "author": "Melanie Mitchell",
+  "price": 25.99,
+  "stock": 10,
+  "categoryId": {
+    "$oid": "67c007a768161cc4e56fb7fb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c01d9e8fe986d0086caa11"
+  },
+  "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+  "author": "Robert C. Martin",
+  "price": 32.5,
+  "stock": 15,
+  "categoryId": {
+    "$oid": "67c007a768161cc4e56fb7fc"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c01dac8fe986d0086caa13"
+  },
+  "title": "Cybersecurity Essentials",
+  "author": "Charles J. Brooks",
+  "price": 40,
+  "stock": 8,
+  "categoryId": {
+    "$oid": "67c007a768161cc4e56fb7fd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c01db38fe986d0086caa15"
+  },
+  "title": "The Pragmatic Programmer: Your Journey To Mastery",
+  "author": "Andrew Hunt and David Thomas",
+  "price": 45,
+  "stock": 12,
+  "categoryId": {
+    "$oid": "67c007a768161cc4e56fb7fc"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c01dba8fe986d0086caa17"
+  },
+  "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+  "author": "Aurélien Géron",
+  "price": 50.99,
+  "stock": 6,
+  "categoryId": {
+    "$oid": "67c007a768161cc4e56fb7fb"
+  },
+  "__v": 0
+}]

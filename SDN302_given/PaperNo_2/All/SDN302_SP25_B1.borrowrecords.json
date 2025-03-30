@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "67c052dc8fe986d0086caa1f"
+  },
+  "userId": {
+    "$oid": "67c011d38cc079c8f7c274ca"
+  },
+  "books": [
+    {
+      "bookId": {
+        "$oid": "67c01b1994c8ed0232b5a78e"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "67c052dc8fe986d0086caa20"
+      }
+    },
+    {
+      "bookId": {
+        "$oid": "67c01d9e8fe986d0086caa11"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "67c052dc8fe986d0086caa21"
+      }
+    }
+  ],
+  "borrowDate": {
+    "$date": "2025-02-27T11:56:12.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c053df8fe986d0086caa24"
+  },
+  "userId": {
+    "$oid": "67c011d38cc079c8f7c274ca"
+  },
+  "books": [
+    {
+      "bookId": {
+        "$oid": "67c01dac8fe986d0086caa13"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "67c053df8fe986d0086caa25"
+      }
+    }
+  ],
+  "borrowDate": {
+    "$date": "2025-02-27T12:00:31.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c054148fe986d0086caa2a"
+  },
+  "userId": {
+    "$oid": "67c014458cc079c8f7c274cc"
+  },
+  "books": [
+    {
+      "bookId": {
+        "$oid": "67c01dac8fe986d0086caa13"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "67c054148fe986d0086caa2b"
+      }
+    },
+    {
+      "bookId": {
+        "$oid": "67c01db38fe986d0086caa15"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "67c054148fe986d0086caa2c"
+      }
+    },
+    {
+      "bookId": {
+        "$oid": "67c01dba8fe986d0086caa17"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "67c054148fe986d0086caa2d"
+      }
+    }
+  ],
+  "borrowDate": {
+    "$date": "2025-02-27T12:01:24.064Z"
+  },
+  "__v": 0
+}]

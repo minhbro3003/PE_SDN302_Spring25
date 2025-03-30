@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67c011d38cc079c8f7c274ca"
+  },
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "$2b$10$xEokM.xH9ihaGDfQ/Et8yeYi4tegojYhbXfVxQWg72L8BaFxNla1u",
+  "address": "123 Main Street, New York, NY",
+  "phone": "123-456-7890",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c014458cc079c8f7c274cc"
+  },
+  "name": "Jane Smith",
+  "email": "jane@example.com",
+  "password": "$2b$10$sj5IS6hS.TIx5Tat2NOIuOZEIivLXzoIBgujh4qafTXK4Tb5ICd7a",
+  "address": "456 Elm Street, Los Angeles, CA",
+  "phone": "987-654-3210",
+  "__v": 0
+}]

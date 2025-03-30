@@ -1,0 +1,19 @@
+/* Question 4: Sample test create a new BorrowRecord */
+{
+    "userId": "67c011d38cc079c8f7c274ca",
+    "books": [
+        {
+            "bookId": "67c01db38fe986d0086caa15",
+            "quantity": 2
+        },
+        {
+            "bookId": "67c01dba8fe986d0086caa17",
+            "quantity": 2
+        }
+    ]
+}
+/* Question 5: Sample test login */
+{
+    "email": "john@example.com",
+    "password": "abc@123"
+}

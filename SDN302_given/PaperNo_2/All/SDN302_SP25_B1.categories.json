@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "67c007a768161cc4e56fb7fb"
+  },
+  "name": "Artificial Intelligence",
+  "description": "Books covering AI concepts, machine learning, and deep learning."
+},
+{
+  "_id": {
+    "$oid": "67c007a768161cc4e56fb7fc"
+  },
+  "name": "Software Development",
+  "description": "Books on programming languages, software engineering principles, and best practices."
+},
+{
+  "_id": {
+    "$oid": "67c007a768161cc4e56fb7fd"
+  },
+  "name": "Cybersecurity",
+  "description": "Books related to information security, ethical hacking, and data protection."
+}]
